@@ -1,0 +1,1 @@
+# laundry-ai-predictive-maintenance
